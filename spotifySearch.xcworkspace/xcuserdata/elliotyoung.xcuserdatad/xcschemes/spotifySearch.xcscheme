@@ -28,6 +28,26 @@
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "503A2E0D1E0321AB00F1804C"
+               BuildableName = "spotifySearchTests.xctest"
+               BlueprintName = "spotifySearchTests"
+               ReferencedContainer = "container:spotifySearch.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "503A2E181E0321AB00F1804C"
+               BuildableName = "spotifySearchUITests.xctest"
+               BlueprintName = "spotifySearchUITests"
+               ReferencedContainer = "container:spotifySearch.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
